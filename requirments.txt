@@ -1,0 +1,5 @@
+gradio==5.16.0
+numpy==2.2.3
+pillow==9.5.0
+tensorflow==2.17.0
+opencv-python==4.9.0.80
