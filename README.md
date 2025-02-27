@@ -20,4 +20,5 @@ python3 main.py
 ### Limitations
 <ol>
   <li>Limited features</li>
+  <li>Only images, i have no plans on adding support for other types of data</li>
 </ol>
